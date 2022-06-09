@@ -1,4 +1,4 @@
 # pictexGUI
 ## Picture to Text
-### EXEFile Download
+#### exefile Download
 >[Download](https://github.com/BX293APEN/pictexGUI/raw/main/pictexGUI.exe)
